@@ -1,0 +1,30 @@
+.graph-view {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.CircularProgressbar {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.circle-bar
+.CircularProgressbar
+.CircularProgressbar-text {
+  font-size: 14px !important;
+}
+
+.dashboard .CircularProgressbar
+.CircularProgressbar-path {
+  stroke-linecap: square;
+}
+.kWKfgJ {
+  width: 65%;
+  position: absolute;
+  padding-top: 8rem;
+  z-index: -1;
+}
